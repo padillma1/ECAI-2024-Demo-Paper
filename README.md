@@ -8,6 +8,7 @@ The most challenging part was federating the SVM model because there is no PyTor
 Demo video link: https://youtu.be/QSfnFeUSL1k?si=kb1r9LZqqSUZGBUj
 
 Requirements
+
 -Have at least 200 MB free space to download and install the FLamby benchmark, including the heart disease dataset
 
 -Have Python and Git installed 
