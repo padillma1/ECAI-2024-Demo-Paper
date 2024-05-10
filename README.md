@@ -4,3 +4,5 @@ The objective of this project is to extend the existing federated learning bench
 A secondary objective of this work is to address the misuse of duplicated data by other researchers in the heart disease classification task. Several papers use a modified version of the Cleveland dataset, obtained on Kaggle (https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset), which contains more than 700 duplicated data points, resulting in highly inflated accuracies. The results obtained by FLamby and in this work use the unmodified dataset, and we only perform standard preprocessing such as removing missing values and binarizing the labels. 
 
 The most challenging part was federating the SVM model because there is no PyTorch SVM model that we can drop into the code (PyTorch makes for simple and flexible optimization of the models) like we were able to do with the one and two-layer neural networks. 
+
+Demo video link: https://youtu.be/QSfnFeUSL1k?si=kb1r9LZqqSUZGBUj
